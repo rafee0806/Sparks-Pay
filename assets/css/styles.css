@@ -1,0 +1,74 @@
+
+html{
+    padding: 0;
+    margin: 0;
+}
+
+.contenti{
+  background-color: #E2E8FE;
+  margin:0;
+  margin-bottom: 20px;
+  font-family: 'Merriweather Sans', sans-serif;
+
+
+
+}
+.buttoni{
+  margin-top: 20px;
+}
+h2{
+  color: #0B3272;
+
+font-family: 'Lemonada', cursive;
+}
+
+.footeri{
+  background-color:white;
+}
+.imagei{
+  display: block;
+  padding-top: 15%;
+  padding-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+     color: #FFFFFF;
+
+}
+
+.navbar {
+  background-color:#0B3272;
+
+}
+.navbar-nav > li {
+  width: 150px;
+}
+.navbar-brand {
+  padding-left: 20px;
+  font-family: 'IBM Plex Sans', sans-serif;
+
+
+}
+/* footer css starts here */
+footer{
+    background-color: #fff;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+
+.google{
+    color: #D44638;
+}
+/* footer css ends here  */
